@@ -13,12 +13,4 @@
 
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mtcicek&theme=dark&background=000000)](https://git.io/streak-stats)
-
----
-
-![Benim GitHub stats](https://github-readme-stats.vercel.app/api?username=mtcicek&show_icons=true&theme=merko) 
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtcicek&layout=compact)](https://github.com/mtcicek/github-readme-stats)
+![Benim GitHub stats](https://github-readme-stats.vercel.app/api?username=mtcicek&show_icons=true&theme=merko) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtcicek&layout=compact)](https://github.com/mtcicek/github-readme-stats)
